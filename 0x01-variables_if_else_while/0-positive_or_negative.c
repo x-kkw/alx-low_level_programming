@@ -4,7 +4,7 @@
 
 /**
  * main: entry point
- * Description: prints the sign of a number; positive or negative.
+ * Description: prints "the sign of a number; positive or negative."
  * Return: 0
  */
 

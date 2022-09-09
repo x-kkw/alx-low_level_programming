@@ -3,7 +3,7 @@
 #include <time.h>
 /**
 * main: Entry code
-* Description: prints the last digit of variable n
+* Description: prints "the last digit of variable n"
 * Return: 0
 */
 int main(void)
