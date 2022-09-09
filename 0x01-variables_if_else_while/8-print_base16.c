@@ -3,7 +3,8 @@
 
 /**
  * main - entry into the code
- * Description: prints all numbers of base 16 starting from 0, followed by a new line.
+ * Description: prints all numbers of base 16 
+ * starting from 0, followed by a new line.
  * Return: 0
  */
 
