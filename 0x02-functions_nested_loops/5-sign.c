@@ -8,6 +8,7 @@
  * 0 if n = zero
  * -1 if n < zero
  */
+
 int print_sign(int n)
 {
 	int sign = 0;
