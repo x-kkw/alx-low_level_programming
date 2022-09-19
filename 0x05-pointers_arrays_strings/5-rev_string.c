@@ -5,7 +5,7 @@
 *@s: string
 *Return: N/A
 */
-i
+
 void rev_string(char *s)
 {
 	int len, i;
